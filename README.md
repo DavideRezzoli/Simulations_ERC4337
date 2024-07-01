@@ -52,4 +52,4 @@ Simulations demonstrate various scenarios:
 By running these simulations, you can gain insights into how different parameters influence transaction processing in an ERC-4337-like environment. Experimenting with different configurations can help optimize bundler strategies and improve overall efficiency.
 
 ### Link to Other Repo
-For more simulations that take into account different signature types, refer to the following repository: [ERC-4337 Simulations](https://github.com/DavideRezzoli/ERC-4337_Simulations/blob/main/ERC4337_episodes.py).
+For more simulations that take into account different signature types, refer to the following repository: [ERC-4337 Simulations]([https://github.com/DavideRezzoli/ERC-4337_Simulations/blob/main/ERC4337_episodes.py](https://github.com/DavideRezzoli/ERC-4337_DifferentSignatures)).
